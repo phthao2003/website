@@ -1,2 +1,2 @@
-# website
+# edubin
 Front-end website
